@@ -9,3 +9,4 @@ A simple, personalised website blocker.
 
 You can change/add the websites that you want to, change your working/studying time according to your need.
 
+- Please run CMD as Administrator as we need to append text to the host file located in system32 folder
