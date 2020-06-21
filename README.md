@@ -9,8 +9,8 @@ A simple, personalised website blocker.
 
 You can change/add the websites that you want to, change your working/studying time according to your need.
 ```diff
-- ___Please run CMD as Administrator as we need to manipulate text in the host file located in system32 folder.___
+- ***** Please run CMD as Administrator as we need to manipulate text in the host file located in system32 folder. *****
 ```
 ```diff
-- ___Look for website_blocker.py for code.___
+- ***** Look for website_blocker.py for code. *****
 ```
